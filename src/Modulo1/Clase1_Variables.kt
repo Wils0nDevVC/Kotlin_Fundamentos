@@ -1,8 +1,10 @@
+package Modulo1
+
 // ==================================================================
 // MÓDULO 1 - CLASE 1: VARIABLES Y TIPOS
 // ==================================================================
 // Para ejecutar esto: Busca el pequeño triángulo verde (▶)
-// que aparecerá al lado de "fun main()" y dale clic.
+// que aparecerá al lado de "fun Modulo1.Modulo1.Modulo1.Modulo1.main()" y dale clic.
 // ==================================================================
 fun main() {
     // 1. ¿CÓMO SÉ MI VERSIÓN DE KOTLIN?

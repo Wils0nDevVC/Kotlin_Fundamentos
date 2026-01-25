@@ -1,4 +1,4 @@
-// ==================================================================
+package Modulo1// ==================================================================
 // MÓDULO 1 - CLASE 4: NULABILIDAD (Null Safety)
 // ==================================================================
 // Kotlin está diseñado para que NUNCA tengas un error de "NullPointerException"
@@ -57,7 +57,7 @@ fun main() {
     // "Intenta obtener el nombre. Si el usuario es null O el nombre es null, imprime 'Desconocido'"
     val nombreMostrar = usuarioEncontrado?.nombre ?: "Desconocido"
 
-    println("Usuario: $nombreMostrar")
+    println("Modulo1.Usuario: $nombreMostrar")
 }
 
 // Clase simple para el ejemplo (ya veremos clases en detalle en el Módulo 2)

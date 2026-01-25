@@ -1,4 +1,4 @@
-// ==================================================================
+package Modulo1// ==================================================================
 // MÓDULO 1 - CLASE 3: FUNCIONES
 // ==================================================================
 // Las funciones son "mini-programas" reutilizables.
@@ -14,7 +14,7 @@ fun main() {
 
     println("\n--- 2. FUNCIONES DE UNA LÍNEA (Single Expression) ---")
     // Si la función es simple, podemos quitar las llaves {} y el return.
-    // Ver función 'restar' abajo.
+    // Ver función 'Modulo1.restar' abajo.
     println("La resta de 20 - 5 es: ${restar(20, 5)}")
 
 
@@ -37,7 +37,7 @@ fun main() {
 
     println("\n--- 4. VALORES POR DEFECTO (Default Arguments) ---")
     // Podemos hacer que algunos parámetros sean OPCIONALES.
-    // Ver función 'crearAlerta' abajo.
+    // Ver función 'Modulo1.crearAlerta' abajo.
 
     crearAlerta(mensaje = "Batería baja") // Usa el color por defecto (Rojo)
     crearAlerta(mensaje = "Carga completa", color = "Verde") // Sobrescribe el color
